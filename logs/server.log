@@ -1,0 +1,31 @@
+2022-12-21 20:27:12,752 [INFO] main: Порт по умолчанию 80 уже занят! Подбираем рандомный порт..
+2022-12-21 20:27:12,752 [INFO] main: Сгенерировали рандомный порт 54570
+2022-12-21 20:27:12,753 [INFO] main: Выставили порт 54570 по умолчанию
+2022-12-21 20:27:12,753 [INFO] start: Запустили web-сервер на порту :54570, директория C:\project\2cours\ssip\1\Gtihub 6_Web_server\html
+2022-12-21 20:29:11,422 [INFO] main: Порт по умолчанию 80 уже занят! Подбираем рандомный порт..
+2022-12-21 20:29:11,422 [INFO] main: Сгенерировали рандомный порт 63238
+2022-12-21 20:29:11,422 [INFO] main: Выставили порт 63238 по умолчанию
+2022-12-21 20:29:11,423 [INFO] start: Запустили web-сервер на порту :63238, директория C:\project\2cours\ssip\1\Gtihub 6_Web_server\html
+2022-12-21 20:29:22,904 [INFO] start: Запустили web-сервер на порту :6333, директория C:\project\2cours\ssip\1\Gtihub 6_Web_server\html
+2022-12-21 20:31:45,650 [INFO] new_client_request: Wed, 21 Dec 2022 17:31:45 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:31:45,853 [INFO] new_client_request: Wed, 21 Dec 2022 17:31:45 GMT -> 127.0.0.1, /favicon.ico 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:32:15,731 [INFO] new_client_request: Wed, 21 Dec 2022 17:32:15 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:34:13,120 [INFO] start: Запустили web-сервер на порту :9999, директория C:\project\2cours\ssip\1\Gtihub 6_Web_server\html
+2022-12-21 20:34:18,784 [INFO] new_client_request: Wed, 21 Dec 2022 17:34:18 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:34:18,815 [INFO] new_client_request: Wed, 21 Dec 2022 17:34:18 GMT -> 127.0.0.1, /image.png 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:34:18,983 [INFO] new_client_request: Wed, 21 Dec 2022 17:34:18 GMT -> 127.0.0.1, /favicon.ico 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:34:32,492 [INFO] new_client_request: Wed, 21 Dec 2022 17:34:32 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:34:32,519 [INFO] new_client_request: Wed, 21 Dec 2022 17:34:32 GMT -> 127.0.0.1, /image.png 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:36:31,098 [INFO] new_client_request: Wed, 21 Dec 2022 17:36:31 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:36:31,125 [INFO] new_client_request: Wed, 21 Dec 2022 17:36:31 GMT -> 127.0.0.1, /image.png 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:36:32,279 [INFO] new_client_request: Wed, 21 Dec 2022 17:36:32 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:36:32,304 [INFO] new_client_request: Wed, 21 Dec 2022 17:36:32 GMT -> 127.0.0.1, /image.png 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:37:24,403 [INFO] new_client_request: Wed, 21 Dec 2022 17:37:24 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:37:24,430 [INFO] new_client_request: Wed, 21 Dec 2022 17:37:24 GMT -> 127.0.0.1, /img/image.png 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:39:30,890 [INFO] start: Запустили web-сервер на порту :8888, директория C:\project\2cours\ssip\1\Gtihub 6_Web_server\html
+2022-12-21 20:39:38,247 [INFO] new_client_request: Wed, 21 Dec 2022 17:39:38 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:39:38,277 [INFO] new_client_request: Wed, 21 Dec 2022 17:39:38 GMT -> 127.0.0.1, /img/image.png 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:39:38,370 [INFO] new_client_request: Wed, 21 Dec 2022 17:39:38 GMT -> 127.0.0.1, /favicon.ico 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:39:51,826 [INFO] new_client_request: Wed, 21 Dec 2022 17:39:51 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:39:51,854 [INFO] new_client_request: Wed, 21 Dec 2022 17:39:51 GMT -> 127.0.0.1, /img/image.png 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+2022-12-21 20:40:14,383 [INFO] new_client_request: Wed, 21 Dec 2022 17:40:14 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
